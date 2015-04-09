@@ -1,3 +1,6 @@
+##### This fork is no longer needed, check out the original project [cbpowell/CPSlider](https://github.com/cbpowell/CPSlider). Now, it resolves iOS 7+ glitch with more compatibility and is truly *drop-in* replacement for `UISlider`
+
+
 ##### This fork fixes some issues:
 
 - property `shouldNotCallSuperOnBeginTracking` was added, because on iOS 7+ call to `[super beginTrackingWithTouch:touch withEvent:event]` causes glitch (its default value is **NOT** for compatibility)
