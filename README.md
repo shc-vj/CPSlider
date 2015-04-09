@@ -1,5 +1,3 @@
-##### This fork is no longer needed, check out the original project [cbpowell/CPSlider](https://github.com/cbpowell/CPSlider). Now, it resolves iOS 7+ glitch with more compatibility and is truly *drop-in* replacement for `UISlider`
-
 
 ##### This fork fixes some issues:
 
